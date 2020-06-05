@@ -10,6 +10,6 @@ Einfach nachzubauendes Oscilloskop für 2 Digital-Signal mit TTL-Pegel
 
 Die Steuerung übernimmt ein ATMega 16.
 
-![Picture](https://github.com/MakeMagazinDE/Waesche-fertig-Melder/blob/master/Aufmacher.jpg) 
+![Picture](https://github.com/MakeMagazinDE/LCD-Scope/blob/master/Scope1.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 3/2020 ab Seite 16 zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 3/2020 ab Seite 110 zu lesen. 
